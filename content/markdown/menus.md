@@ -10,7 +10,7 @@
     1.  [Recolha](#op_instituicao_recolha)
     2.  [Exercícios](#op_instituicao_exercicio)
     3.  [Configurações](#op_instituicao_configuracoes)
-      1.  [SICC](#op_instituicao_configuracoes_sicc)
+      1.   [SICC](#op_instituicao_configuracoes_sicc)
       2.  [Sistema](#op_instituicao_configuraces_sistema)
   2.  [Opção Tabelas Genéricas](#op_tabelas_genericas)
     1. [Códigos Postais](#op_tabelas_genericas_codigos_postais)
