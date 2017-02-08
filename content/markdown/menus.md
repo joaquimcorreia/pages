@@ -6,7 +6,7 @@
 
 1.  [Introdução](#introducao)
 2.  [Menu Parametrização](#menu_parametrizacao)
-  1.  [Opção Instituição](#op_instituicao)
+  1.   [Opção Instituição](#op_instituicao)
     1.  [Recolha](#op_instituicao_recolha)
     2.  [Exercícios](#op_instituicao_exercicio)
     3.  [Configurações](#op_instituicao_configuracoes)
