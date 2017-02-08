@@ -17,7 +17,7 @@
       1.	[Recolha](#op_tabelas_genericas_codigos_postais_recolha)
       2. [Listagens](#op_tabelas_genericas_codigos_postais_listagens)
     2. [Bancos](#op_tabelas_genericas_bancos)
-      1.  [Recolha](#op_tabelas_genericas_bancos_recolha)
+      1.   [Recolha](#op_tabelas_genericas_bancos_recolha)
       2.  [Listagens](#op_tabelas_genericas_bancos_listagens)  
     3. [Fatores de Aglutinação](#op_tabelas_genericas_fatores_aglutinacao)
       1.  [Recolha](#op_tabelas_genericas_fatores_aglutinacao_recolha)
