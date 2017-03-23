@@ -5,21 +5,21 @@ Políticas de Segurança de Utilização SICC
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:1 -->
 
-		1. [Sessão de utilização](#sesso-de-utilizao)
-		2. [Credenciais de acesso](#credenciais-de-acesso)
-		3. [Nome de utilizador](#nome-de-utilizador)
-		4. [Passwords](#passwords)
-		5. [Bloqueios de conta](#bloqueios-de-conta)
-		6. [Perfis](#perfis)
-			1. [Relacionamento de perfis](#relacionamento-de-perfis)
-			2. [Gestão de permissões](#gesto-de-permisses)
-				1. [Menu Parametrização](#menu-parametrizao)
-		7. [Processos](#processos)
-			1. [Alteração de Password](#alterao-de-password)
-			2. [Pedido de criação de conta de utilizador](#pedido-de-criao-de-conta-de-utilizador)
-		8. [Sub-processos](#sub-processos)
-			1. [Verifica formulário "Alterar Password"](#verifica-formulrio-alterar-password)
-		9. [Plano de Implementação](#plano-de-implementao)
+1. [Sessão de utilização](#sesso-de-utilizao)
+2. [Credenciais de acesso](#credenciais-de-acesso)
+3. [Nome de utilizador](#nome-de-utilizador)
+4. [Passwords](#passwords)
+5. [Bloqueios de conta](#bloqueios-de-conta)
+6. [Perfis](#perfis)
+	1. [Relacionamento de perfis](#relacionamento-de-perfis)
+	2. [Gestão de permissões](#gesto-de-permisses)
+		1. [Menu Parametrização](#menu-parametrizao)
+7. [Processos](#processos)
+	1. [Alteração de Password](#alterao-de-password)
+	2. [Pedido de criação de conta de utilizador](#pedido-de-criao-de-conta-de-utilizador)
+8. [Sub-processos](#sub-processos)
+	1. [Verifica formulário "Alterar Password"](#verifica-formulrio-alterar-password)
+9. [Plano de Implementação](#plano-de-implementao)
 
 <!-- /TOC -->
 
